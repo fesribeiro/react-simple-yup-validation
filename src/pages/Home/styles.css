@@ -1,0 +1,14 @@
+.form-box {
+  background: #fff;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  padding: 40px;
+}
+
+.form {
+  width: 40%;
+}
